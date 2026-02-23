@@ -1,7 +1,7 @@
 
   # Intelligent SWOT Analysis Platform
 
-  This is a code bundle for Intelligent SWOT Analysis Platform. The original project is available at https://www.figma.com/design/agTfBkRO1ZtvsMZqDT67fQ/Intelligent-SWOT-Analysis-Platform.
+  This is a code bundle for Intelligent SWOT Analysis Platform. The original project is available at https://asilvainnovations.com/strat-planner-pro
 
   ## Running the code
 
